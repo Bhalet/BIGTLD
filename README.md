@@ -3,9 +3,9 @@ Beginner-Intermidiate guide to Linux Desktop
 
 ## Prerequisites
 - A linux distro installed in your computer. (beginner-friendly distro very highly reccomended)
- - A Desktop Environment (GUI)
- - Terminal emulator
- - File manager
+  - A Desktop Environment (GUI)
+  - Terminal emulator
+  - File manager
 - Internet connection (Optional)
 
 > [!NOTE]   
@@ -13,4 +13,4 @@ Beginner-Intermidiate guide to Linux Desktop
 
 ## Guide
 [Terminal](docs/terminal.md)
-
+[Package manager](docs/pacman.md)
