@@ -38,7 +38,7 @@ sudo pacman -S vlc
 ```
 it will ask you to type your password and verify installation by typing `y`. Don't be afaid when you see a lot of text. That's normal.
 
-## Managing files and folders (directories)
+## The Interference
 When you opened the terminal you saw some thing similar to this
 ```
 [john@my-Lenovo-Laptop ~]$
@@ -48,7 +48,15 @@ When you opened the terminal you saw some thing similar to this
 - `~`is your current directory (location). *`~` stands for `/home/username`*.
 - `$` indicates that the terminal is ready for interaction.
 
-tutorial at [ubuntu](https://ubuntu.com/tutorials/command-line-for-beginners), [hostinger](https://www.hostinger.com/tutorials/linux-commands?) and [geekforgeeks](https://www.geeksforgeeks.org/linux-unix/basic-linux-commands/)
+All comamand follow this pattern
+```
+$ [program/utility] [option/flag] [argument]
+```
+Don't worry if you dont understand. You will get used to it eventually.
+
+## Managing files and folders (directories)
+tutorial at [ubuntu](https://ubuntu.com/tutorials/command-line-for-beginners), [hostinger](https://www.hostinger.com/tutorials/linux-commands?) and [geekforgeeks](https://www.geeksforgeeks.org/linux-unix/basic-linux-commands/).
+You only need to learn the following commands for now.
 
 
 ### Cheetsheet
@@ -61,6 +69,7 @@ touch        # create file
 cp           # copy
 mv           # move/rename
 echo         # repeat after me
+cat          # What's in the file (text based only)
 rm           # remove/delete
 sudo         # run as admin
 apt install  # install software (Ubuntu)
@@ -99,9 +108,9 @@ ls ../Pictures/*.png >> ~/Documents/waifulist.txt
 mv *.jpeg ../Pictures/
 ls ../Pictures/*.jpeg >> ~/Documents/waifulist.txt
 ```
-or **more Advance**
+or **more Advance** and accurate
 ```
-mv -v *{jpg,png,jpeg} ../Pictures # >> ~/Documents/waifulist.txt
+mv -v *{jpg,png,jpeg} ../Pictures >> ~/Documents/waifulist.txt
 ```
 4. **Go to the Pictures folder**
 ```
@@ -125,6 +134,25 @@ mv -v ./*aifu2* ./Waifu2/
 ```
 nano ~/Documents/waifulist.txt
 ```
+or print it into the terminal
+```
+cat ~/Documents/waifulist.txt
+```
+
+**Summary**  
+If that felt like a lot, remember that it becomes quite easy and effiecient once you learn it
+```
+mv -v ~/Documents/*{jpg,png,jpeg} ../Pictures >> ~/Documents/waifulist.txt # move all images (including non-waifu)
+cd ~/Pictures
+mkdir ./Waifu1 ./Waifu2
+mv -v ./*aifu1* ~./Waifu1/
+mv -v ./*aifu2* ./Waifu2/
+```
+
 
 # Filesystem Hierarchy
-I reccomend to learn the [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) 
+I reccomend to learn the [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) from a ramdom Youtube video.
+
+
+</br></br>
+**NEXT [Optional](terminal2.md) or [Skip](pacman.md)**
