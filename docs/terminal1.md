@@ -154,5 +154,6 @@ mv -v ./*aifu2* ./Waifu2/
 I reccomend to learn the [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) from a ramdom Youtube video.
 
 
-</br></br>
+</br>
+
 **NEXT [Optional](terminal2.md) or [Skip](pacman.md)**

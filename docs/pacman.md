@@ -1,9 +1,9 @@
 # Package Manager
 
-> A package manager is a software tool that automates installing, upgrading, configuring, and removing software packages (programs, libraries) on a computer.
+A package manager is a software tool that automates installing, upgrading, configuring, and removing software packages (programs, libraries) on a computer.
 
-</br>
-If you want the wikipedia description
+
+If you want the [wikipedia description](https://en.wikipedia.org/wiki/Package_manager)
 </br>
 
 > A package manager or package management system (PMS) is a collection of software tools that automates the process of installing, upgrading, configuring, and removing computer programs for a computer in a consistent manner. </br> package manager deals with packages, distributions of software and data in archive files. Packages contain metadata, such as the software's name, description of its purpose, version number, vendor, checksum (usually a cryptographic hash function), and a list of dependencies necessary for the software to run properly. Upon installation, metadata is stored in a local package database. Package managers typically maintain a database of software dependencies and version information to prevent software mismatches and missing prerequisites. They work closely with software repositories, binary repository managers, and app stores. </br> Package managers are designed to eliminate the need for manual installs and updates. This can be particularly useful for large enterprises whose operating systems (OSes) typically consist of hundreds or even tens of thousands of distinct packages.
@@ -27,7 +27,7 @@ man <package-manager>
 
 ## Installing packages
 
-Lets start with installing [vlc media player](https://www.videolan.org/). The following commands Install a specific package (vlc) and its dependencies
+Lets start with installing [vlc media player](https://www.videolan.org/). The following commands installs a specific package (vlc) and its dependencies
 
 **Debian/Ubuntu**
 ```
@@ -167,5 +167,4 @@ pacman -Si <package>
 
 This helps you verify version, description, dependencies, and repository source.
 
-Default package manager and packages varies upon distro from distro 
-
+**Next [Optional](pacman2.md) or [Skip](DE.md)**

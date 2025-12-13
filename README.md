@@ -19,4 +19,5 @@ If you are confused about something, it is documented somewhere whether on reddi
 ## Guide
 - [Terminal](docs/terminal1.md)
 - [Terminal-extra](docs/terminal2.md)
-- [Package manager](docs/pacman.md)
+- [Package-Manager](docs/pacman.md)
+- [Package-Manager-extra](docs/pacman2.md)

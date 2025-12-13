@@ -89,5 +89,6 @@ The `TAB` key can help you in path completion and typing a path without error. Y
 **For more usage and techniques see the [The Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)**
 
 
-[All commands](https://en.wikipedia.org/wiki/List_of_POSIX_commands)
+
+**[Next](pacman.md)**
 
