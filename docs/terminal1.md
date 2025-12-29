@@ -69,7 +69,7 @@ touch        # create file
 cp           # copy
 mv           # move/rename
 echo         # repeat after me
-cat          # What's in the file (text based only)
+cat          # What's in the file?
 rm           # remove/delete
 sudo         # run as admin
 apt install  # install software (Ubuntu)
@@ -151,7 +151,7 @@ mv -v ./*aifu2* ./Waifu2/
 
 
 # Filesystem Hierarchy
-I reccomend to learn the [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) from a ramdom Youtube video.
+I reccomend to learn the [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) from a ramdom [Youtube video](https://www.google.com/search?q=linux+file+system+site%253Ayoutube.com). like [t](https://www.youtube.com/watch?v=ISJ44S5sZu8)[h](https://www.youtube.com/watch?v=995-SYn6960)[e](https://www.youtube.com/watch?v=BUnb1PKKMBA)[s](https://www.youtube.com/watch?v=A3G-3hp88mo)[e](https://www.youtube.com/watch?v=p9lCbFq8IPo)
 
 
 </br>

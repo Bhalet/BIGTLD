@@ -40,3 +40,5 @@
 #### When you might not need Flatpak
 - If you prefer apps that fully integrate with your system
 - If you have very limited disk space
+
+[NEXT](DE.md)

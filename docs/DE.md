@@ -4,30 +4,49 @@ A desktop environment (DE) is an implementation of the desktop metaphor made of 
 A desktop environment bundles together a variety of components to provide common graphical user interface elements such as icons, toolbars, wallpapers, and desktop widgets. Additionally, most desktop environments include a set of integrated applications and utilities. Most importantly, desktop environments provide their own window manager, which can however usually be replaced with another compatible one.
 
 ## Gnome
+**[Wikipedia](https://en.wikipedia.org/wiki/GNOME) and [Arch Wiki](https://wiki.archlinux.org/title/Gnome)**  
 **Philosophy**: Simplicity, focus, and workflow efficiency
 - Minimalist, modern UI
 - Strong keyboard-driven workflow
 - Uses GNOME Shell with an overview-based app launcher
 - Fewer visible options by default (many tweaks via extensions)
 
+<p align="left">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240501190046/GNOME-Desktop-version-44-(1).webp" width="1000">
+<p>
 
 ## KDE Plasma
+**[Wikipedia](https://en.wikipedia.org/wiki/KDE_Plasma) and [Arch Wiki](https://wiki.archlinux.org/title/KDE#Plasma)**  
 **Philosophy**: Power, flexibility, and choice
 - Extremely customizable (panels, widgets, shortcuts, themes)
 - Traditional desktop by default (taskbar + menu)
 - Built on Qt framework
 
+<p align="left">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240501190025/KDE-Plasma-527-Desktop-(1).webp" width="1000">
+</p>
+
 ## Cinnamon
+**[Wikipedia](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)) and [Arch Wiki](https://wiki.archlinux.org/title/Cinnamon)**  
 **Philosophy**: Familiar, comfortable, and traditional
 - Classic desktop layout (Windows-like)
 - Developed by the Linux Mint team
 - GTK-based, derived from GNOME tech
 
+<p align="left">
+  <img src="https://www.linuxmint.com/pictures/screenshots/zara/cinnamon.png" width="1000"/>
+</p>
+
 ## XFCE
+**[Wikipedia](https://en.wikipedia.org/wiki/Xfce) and [Arch Wiki](https://wiki.archlinux.org/title/Xfce)**  
 **Philosophy**: Speed, stability, and low resource usage
 - Lightweight and fast
 - Modular components
 - Traditional desktop layout
+
+<p align="left">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/XFCE_4.20.png" width="1000">
+</p>
 
 ## Comparision
 
@@ -39,4 +58,4 @@ A desktop environment bundles together a variety of components to provide common
 | Modern UI         | **Very High** | High          | Medium    | Low           |
 | Stability         | High          | High          | Very High | **Very High** |
 
-
+**For other Desktop environments see [Arch Wiki](https://wiki.archlinux.org/title/Desktop_environment)**
