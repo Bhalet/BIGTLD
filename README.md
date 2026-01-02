@@ -17,6 +17,7 @@ If you are confused about something, it is documented somewhere whether on [Arch
 > All mainstream desktop distributions will work.
 
 ## Guide
+- [Introduction (Incomplete)](docs/intro.md)
 - [Terminal](docs/terminal1.md)
 - [Terminal-extra](docs/terminal2.md)
 - [Package-Manager](docs/pacman.md)

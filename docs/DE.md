@@ -3,8 +3,8 @@ A desktop environment (DE) is an implementation of the desktop metaphor made of 
 
 A desktop environment bundles together a variety of components to provide common graphical user interface elements such as icons, toolbars, wallpapers, and desktop widgets. Additionally, most desktop environments include a set of integrated applications and utilities. Most importantly, desktop environments provide their own window manager, which can however usually be replaced with another compatible one.
 
-## Gnome
-**[Wikipedia](https://en.wikipedia.org/wiki/GNOME) and [Arch Wiki](https://wiki.archlinux.org/title/Gnome)**  
+## Gnome (GNU Network Object Model Environment)
+**[Wikipedia](https://en.wikipedia.org/wiki/GNOME), [Arch Wiki](https://wiki.archlinux.org/title/Gnome) [Official site](https://www.gnome.org/)**  
 **Philosophy**: Simplicity, focus, and workflow efficiency
 - Minimalist, modern UI
 - Strong keyboard-driven workflow
@@ -16,7 +16,7 @@ A desktop environment bundles together a variety of components to provide common
 <p>
 
 ## KDE Plasma
-**[Wikipedia](https://en.wikipedia.org/wiki/KDE_Plasma) and [Arch Wiki](https://wiki.archlinux.org/title/KDE#Plasma)**  
+**[Wikipedia](https://en.wikipedia.org/wiki/KDE_Plasma), [Arch Wiki](https://wiki.archlinux.org/title/KDE#Plasma) [Official site](https://kde.org/plasma-desktop/)**  
 **Philosophy**: Power, flexibility, and choice
 - Extremely customizable (panels, widgets, shortcuts, themes)
 - Traditional desktop by default (taskbar + menu)
@@ -27,7 +27,7 @@ A desktop environment bundles together a variety of components to provide common
 </p>
 
 ## Cinnamon
-**[Wikipedia](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)) and [Arch Wiki](https://wiki.archlinux.org/title/Cinnamon)**  
+**[Wikipedia](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)), [Arch Wiki](https://wiki.archlinux.org/title/Cinnamon) [Official site](https://projects.linuxmint.com/cinnamon/)**  
 **Philosophy**: Familiar, comfortable, and traditional
 - Classic desktop layout (Windows-like)
 - Developed by the Linux Mint team
@@ -38,7 +38,7 @@ A desktop environment bundles together a variety of components to provide common
 </p>
 
 ## XFCE
-**[Wikipedia](https://en.wikipedia.org/wiki/Xfce) and [Arch Wiki](https://wiki.archlinux.org/title/Xfce)**  
+**[Wikipedia](https://en.wikipedia.org/wiki/Xfce), [Arch Wiki](https://wiki.archlinux.org/title/Xfce) [Official site](https://www.xfce.org/)**  
 **Philosophy**: Speed, stability, and low resource usage
 - Lightweight and fast
 - Modular components
