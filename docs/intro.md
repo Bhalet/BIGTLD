@@ -22,9 +22,21 @@
 # Getting Familiar with the Desktop
 
 > [!NOTE]
-> I provided this sectionbecause some people say that linux feels unfamiliar
+> I provided this section because some people say that linux feels unfamiliar
 
 The desktop user interference **might** slightly/moderately vary depending on the [Desktop Environment](DE.md) and [Distribution](https://en.wikipedia.org/wiki/Linux_distribution), but almost all have a traditional desktop layout.
 
 
+insert missing
 
+
+# Software
+
+## Packaging
+
+| Type              | File Extension(s)     | Analogous in Windows        | Description |
+|-------------------|-----------------------|-----------------------------|-------------|
+| Installer Package | `.deb`, `.rpm`        | `.msi`, `.exe` (installer)  | Native Linux package formats used by package managers (APT, DNF, Zypper). Installed system-wide with dependency resolution. |
+| Portable Archive  | `.tar.gz`, `.tar.xz`  | `.zip`, `.7z`               | Compressed archives containing prebuilt binaries or source code. Typically extracted and run manually, no automatic dependency handling. |
+| AppImage          | `.AppImage`           | Portable `.exe`             | Self-contained executable that runs without installation. Includes most dependencies and can be run from any location. |
+| Flatpak           | `.flatpak`, `.flatpakref` | Microsoft Store / MSIX | Sandbox-based application format. Distributes apps with bundled dependencies, supports permissions and system isolation. |

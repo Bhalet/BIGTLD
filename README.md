@@ -1,7 +1,10 @@
 # BIGTLD
 Beginner-Intermidiate guide to Linux Desktop
 
-The project is made on the assumption that readers don't want to 'read' long explainations, and that examples are an effective way to learn. If you are looking for something extensive try [this](https://linux-training.be/linuxfun.pdf). I will try to provide a link to a web page where it is extensively documented for people who are interested.
+> [!NOTE]  
+> This is not profesional advice, just a personal note/collection. Here is [better one](https://linuxnewbieguide.org/overview-of-chapters/)  
+
+The project is a quick start guide to Desktop Linux. It is not perfect. I might have written too much or missed some concepts. Even the name is not final. If you are looking for something extensive try [this](https://linux-training.be/linuxfun.pdf). I will try to provide a link to a web page where it is extensively documented for people who are interested.
 
 If you are confused about something, it is documented somewhere whether on [Arch wiki](https://wiki.archlinux.org/), forums, Reddit, or even youtube. 
 
@@ -9,11 +12,10 @@ If you are confused about something, it is documented somewhere whether on [Arch
 - A linux distro installed in your computer. (beginner-friendly distro very highly reccomended)
   - A Desktop Environment (GUI)
   - Terminal emulator
-  - File manager (Optional)
-  - A Web Browser
-- Internet connection
+  - File manager (Optional: for viewing changes live)
+  - A Web Browser (For reading different webpages)
+- Internet connection (For reading different webpages)
 
-> [!NOTE]   
 > All mainstream desktop distributions will work.
 
 ## Guide
